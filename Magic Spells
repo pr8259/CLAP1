@@ -150,4 +150,4 @@ int main() {
         counterspell(spell);
     }
     return 0;
-}
+} 
